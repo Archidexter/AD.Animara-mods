@@ -1,6 +1,6 @@
 # AD.Animara-mods
 
-Мод **AD.Animara** для The Sims 4 и русские строки к модам 18+ (WickedWhims, Extreme Violence, Basemental Drugs). Бесплатно.
+Мод **AD.Animara** для The Sims 4 и русские строки к модам 18+ (WickedWhims, Extreme Violence, Life Tragedies, Basemental Drugs). Бесплатно.
 
 Мод работает вместе с лаунчером AD.Animara: лаунчер сам скачивает отсюда `AD.Animara-mods.zip` и `mods.json`, проверяет подпись автора и кладёт файлы в папку Mods игры. Без лаунчера мод ничего не делает.
 
@@ -23,6 +23,6 @@
 
 ---
 
-**AD.Animara** mod for The Sims 4 and Russian strings for the 18+ mods (WickedWhims, Extreme Violence, Basemental Drugs). Free of charge.
+**AD.Animara** mod for The Sims 4 and Russian strings for the 18+ mods (WickedWhims, Extreme Violence, Life Tragedies, Basemental Drugs). Free of charge.
 
 The mod works together with the AD.Animara launcher: the launcher downloads `AD.Animara-mods.zip` and `mods.json` from here, checks the author's signature and puts the files into the game's Mods folder. Without the launcher the mod does nothing. The 18+ mods themselves are not included: the launcher downloads them from their authors.
