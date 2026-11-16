@@ -8,7 +8,7 @@ AD.Animara-mods — Лицензия / License
 Запрещается без письменного разрешения автора: продавать мод или брать плату за доступ к нему; изменять его и распространять изменённые версии;
 выдавать за свою работу; использовать название «AD.Animara» для других продуктов.
 
-2. Русские строки (папка loc). Это перевод текстов модов других авторов: WickedWhims (TURBODRIVER), Extreme Violence (Sacrificial),
+2. Русские строки (папка loc). Это перевод текстов модов других авторов: WickedWhims (TURBODRIVER), Extreme Violence и Life Tragedies (Sacrificial),
 Basemental Drugs (Basemental). Права на исходные тексты остаются у их авторов. Перевод бесплатный и некоммерческий, самих модов он не содержит.
 Автор мода, который не хочет, чтобы перевод его текстов лежал здесь, — напиши в Issues этого репозитория: файл будет убран.
 
@@ -25,7 +25,7 @@ Without the author's written permission you may NOT: sell the mod or charge for 
 claim it as your own work; use the "AD.Animara" name for other products.
 
 2. Russian strings (folder loc). They are a translation of the texts of other authors' mods: WickedWhims (TURBODRIVER), Extreme Violence
-(Sacrificial), Basemental Drugs (Basemental). The rights to the original texts remain with their authors. The translation is free and
+and Life Tragedies (Sacrificial), Basemental Drugs (Basemental). The rights to the original texts remain with their authors. The translation is free and
 non-commercial and does not contain the mods themselves. If you are a mod author and do not want a translation of your texts to be here,
 open an Issue in this repository and the file will be removed.
 
